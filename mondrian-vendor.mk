@@ -894,7 +894,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mondrian/proprietary/vendor/etc/models/acd/event.eai:$(TARGET_COPY_OUT_VENDOR)/etc/models/acd/event.eai \
     vendor/xiaomi/mondrian/proprietary/vendor/etc/models/acd/music.eai:$(TARGET_COPY_OUT_VENDOR)/etc/models/acd/music.eai \
     vendor/xiaomi/mondrian/proprietary/vendor/etc/models/acd/speech.eai:$(TARGET_COPY_OUT_VENDOR)/etc/models/acd/speech.eai \
-    vendor/xiaomi/mondrian/proprietary/vendor/etc/msm_irqbalance.conf:$(TARGET_COPY_OUT_VENDOR)/etc/msm_irqbalance.conf \
     vendor/xiaomi/mondrian/proprietary/vendor/etc/perf/avcsysnodesconfigs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/avcsysnodesconfigs.xml \
     vendor/xiaomi/mondrian/proprietary/vendor/etc/perf/commonresourceconfigs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/commonresourceconfigs.xml \
     vendor/xiaomi/mondrian/proprietary/vendor/etc/perf/commonsysnodesconfigs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/commonsysnodesconfigs.xml \
