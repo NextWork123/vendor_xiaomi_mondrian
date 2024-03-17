@@ -3147,7 +3147,6 @@ PRODUCT_PACKAGES += \
     SoterService \
     TimeService \
     TrustZoneAccessService \
-    com.qualcomm.qti.gpudrivers.taro.api31 \
     powermodule_java \
     uimgbaservice \
     HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND \
